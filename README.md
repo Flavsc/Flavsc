@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **YE Gestão Saúde - São Camilo**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native**, **FireBase**, **Clojure**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
