@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flavio Carvalho</h1>
 <h3 align="center">Computer Science Student at IMT - Instituto Mauá de Tecnologia</h3>
 
-- 🔭 I’m currently working on **YE Gestão Saúde - São Camilo**
+- 🔭 I’m currently working on **Saúde Plus: Gestão Inteligente de Saúde**
 
 - 🌱 I’m currently learning **React Native**, **FireBase**, **Clojure**
 
