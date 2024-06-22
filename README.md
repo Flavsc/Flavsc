@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Saúde Plus: Gestão Inteligente de Saúde**
 
-- 🌱 I’m currently learning **React Native**, **FireBase**, **Clojure**
+- 🌱 I’m currently learning **Flutter**.
 
 - 👨‍💻 All of my projects are available at [github](github)
 
