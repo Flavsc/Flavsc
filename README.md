@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flavio Carvalho</h1>
 <h3 align="center">Computer Science Student at IMT - Instituto Mauá de Tecnologia</h3>
 
-- 🔭 I’m currently working on **routine_plus_habit_front**
+- 🔭 I’m currently working on **Nexxus Sistemas**
 
 - 🌱 I’m currently learning **Flutter**.
 
