@@ -1,13 +1,16 @@
 # welcome
 
-## computer science student at imt - instituto mauá de tecnologia
+computer science student at imt - instituto mauá de tecnologia  
+currently at **nexxus sistemas ltda.**
 
-currently working at **nexxus sistemas ltda.**
+> exploring the intersection of technology and creativity.
 
-- **projects:** [github](https://github.com/flavsc)
-- **email:** flavsc.brz@gmail.com
-
-## social
+## connect
 
 - [linkedin](https://www.linkedin.com/in/flavio-carvalho-382b82263/)
 - [instagram](https://instagram.com/fravo__)
+- **contact:** flavsc.brz@gmail.com
+
+## focus
+
+- developing mazca ltda.
