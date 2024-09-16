@@ -9,6 +9,7 @@ currently at **nexxus sistemas ltda.**
 
 - [linkedin](https://www.linkedin.com/in/flavio-carvalho-382b82263/)
 - [instagram](https://instagram.com/fravo__)
+
 - **contact:** flavsc.brz@gmail.com
 
 ## focus
