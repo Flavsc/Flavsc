@@ -13,4 +13,4 @@ currently at **nexxus sistemas ltda.**
 
 ## focus
 
-- developing mazca clothing
+- developing mazca inc
